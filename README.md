@@ -1,7 +1,7 @@
 ### Hi, I'm Victoria! 👋
 
 ## Bio :bulb:
-I'm an undergraduate senior at the University of Illinois at Urbana-Champaign, majoring in Economics and **minoring in Computer Science**. My journey into tech has been non-linear, but over the past few years I have developed a strong passion in **full stack development**, and actively immerse myself into programs and opportunities that allow me to broaden my skillset and gain experience building production-level code using an efficient software development lifecycle. I enjoy self-learning new frameworks and languages in my free time, utilizing whatever internet resources I can to grow my knowledge in building applications, both mobile and web. **Whatever I do not know, I make up for in my willingness to learn**! :computer::heart_decoration:
+I'm an undergraduate senior at the University of Illinois at Urbana-Champaign, majoring in Economics and **minoring in Computer Science**. I have developed a strong passion in **full stack development** after pursuing a career in software engineering for over 1.5 years, and actively immerse myself into programs and opportunities that allow me to broaden my skillset and gain experience building production-level code using an efficient software development lifecycle. I enjoy self-learning new frameworks and languages in my free time, utilizing whatever internet resources I can to grow my knowledge in building applications, both mobile and web. **Whatever I do not know, I make up for in my willingness to learn**! :computer::heart_decoration:
 
 ## Connect with me! :dizzy:
 
